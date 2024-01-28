@@ -38,8 +38,7 @@
 
 <br>
 
-**RESUME ABOUT ME**:
-["Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."]
+
     
 
 </p>
@@ -49,9 +48,10 @@
 
 -----
 
-<br>
 
-
+**RESUME ABOUT ME**<br>
+["Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."]
+<br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
