@@ -7,7 +7,7 @@
 
 <br>
 <br><br>
-<h2 width="25"> [web and application developer ]<h2>
+<h2 width="25" align="center"> [web and application developer ]<h2>
 
 
 <br><br>
