@@ -19,7 +19,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages::**
     
     <b>- JAVA</b><br>
     <b>- JAVASCRIPT</b><br>
