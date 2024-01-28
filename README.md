@@ -3,11 +3,8 @@
 
 
 
-<br>
 
-<br>
-<br>
-<h2 width="25" align="center"> [web and application developer ]<h2><br>
+<h2 width="25" align="center"> [web and application developer ]<h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
