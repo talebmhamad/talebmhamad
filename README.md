@@ -8,9 +8,9 @@
 <br>
 
 - ( web and application developer )
-<p font-size="30px">
-"Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."
-<br><br><p>
+
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -39,7 +39,7 @@
 <br>
 
 
-
+["Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."]
     
 
 </p>
