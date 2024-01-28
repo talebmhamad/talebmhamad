@@ -21,17 +21,17 @@
 
 - **Languages**:
     
-    <b>JAVA</b><br>
-    <b>JAVASCRIPT</b><br>
-    <b>C</b><br>
-    <b>C#</b><br>
-    <b>PHP</b><br>
-    <b>Flutter</b><br>
-    <b>HTML<b><br>
-    <b>CSS<b><br>
-    <b>ASP.NET<b><br>
-    <b>SQL<b><br>
-    
+    <b>-JAVA</b><br>
+    <b>-JAVASCRIPT</b><br>
+    <b>-C</b><br>
+    <b>-C#</b><br>
+    <b>-PHP</b><br>
+    <b>-Flutter</b><br>
+    <b>-HTML<b><br>
+    <b>-CSS<b><br>
+    <b>-ASP.NET<b><br>
+    <b>-SQL<b><br>
+
    
     
 <br>   
