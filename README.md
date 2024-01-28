@@ -5,18 +5,11 @@
 
 <br>
 
-
-
-	
-
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- we developer/programmer
+- ( web and application developer )
 
-
+"Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -28,7 +21,7 @@
 
 - **Languages**:
     
-    ![C.PHP.JAVA.CSS.HTML.C#.SQL.GIT.JAVASCRIPT]
+    ![C/PHP/JAVA/CSS/HTML/C#/SQL/GIT/JAVASCRIPT]
    
     
 <br>   
@@ -45,7 +38,7 @@
 
 <br>
 
-- **Extras**:
+
 
     
 
