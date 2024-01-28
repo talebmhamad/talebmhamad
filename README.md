@@ -1,13 +1,13 @@
 
-<h1 align="center"><b>Hi , I'm Mouhamad bilal taleb </b>
+<h1 align="center"><b>    Hi , I'm Mouhamad bilal taleb </b>
 
 
 
 <br>
 
 <br>
-
-- ( web and application developer )
+<br><br>
+ [web and application developer ]
 
 
 <br><br>
