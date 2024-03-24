@@ -54,7 +54,8 @@
 
 
 - **RESUME ABOUT ME**<br><br><br>
-["Recent graduate from Lebanese University with a degree in Computer Science, aspiring web and application developer eager to apply academic knowledge to real-world projects. Skilled in web development with a portfolio of projects completed during university studies. Passionate about leveraging coding expertise to create innovative and user-friendly web applications. Seeking opportunities to further grow and contribute in the dynamic field of web development."]
+["Experienced Software Developer with a passion for crafting high-quality, scalable solutions. Skilled in full-stack development, I bring expertise in a variety of programming languages and frameworks. With a proven track record of delivering successful projects, I thrive in dynamic environments and enjoy tackling complex challenges. From concept to deployment, I am committed to driving innovation and exceeding client expectations. Let's connect to explore how my skills and experience can contribute to your team's success.
+Strong software professional from Lebanese University."]
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
