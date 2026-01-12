@@ -1,10 +1,10 @@
 
-<h1 align="center"><b>    Hi , I'm Mouhamad bilal taleb </b>
+<h1 align="center"><b>    Hi , I'm Mhamad bilal taleb </b>
 
 
 
 
-<h2 width="25" align="center"> [Tech Lead ]<h2>
+<h2 width="25" align="center"> ERP software engineer<h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
